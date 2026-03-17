@@ -1,4 +1,4 @@
-## Experiment 7(b): Digital to Analog Converter (DAC) using Proteus
+## Experiment 7: Digital to Analog Converter (DAC) using Proteus
 ## Aim
 To design and simulate a Digital to Analog Converter (DAC) circuit using Proteus and observe the conversion of digital signals into analog output voltage.
 ## Apparatus / Software Required
